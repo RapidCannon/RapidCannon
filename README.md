@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Logan, a recently graduated computer science major who loves to work with websites.
+Thank you for clicking on my profile. I'm Logan, a recently graduated computer science major who loves to work with websites.
 
 ## Right now I am currently:
 
