@@ -2,7 +2,7 @@
 
 I am Logan, a recently graduated computer science major who loves to work with websites.
 
-##Right now I am currently:
+## Right now I am currently:
 
 * Learning React, and TypeScript
 * Reinforcing my JavaScript skills
@@ -10,7 +10,7 @@ I am Logan, a recently graduated computer science major who loves to work with w
 
 <br>
 
-##Where you can reach me:
+## Where you can reach me:
 
 [LinkedIn](https://www.linkedin.com/in/logan-payton-a71b14189/)
 
